@@ -1,1 +1,4 @@
-# Mchatbot--Medical-Health-assistant-
+# Mchatbot-Medical-Health-assistant-
+ 
+
+**MChatBot** is an advanced medical chatbot designed to assist patients and healthcare professionals by leveraging **Natural Language Processing (NLP), Speech-to-Text (STT), and Text-to-Speech (TTS)** capabilities. Built using **Django, spaCy, SQLite 3, HTML, and JavaScript**, this system allows **patients and physicians to register, book appointments, and conduct diagnostic encounters**. Physicians can **generate PDF reports** for patient diagnoses, and the chatbot provides essential details about **clinics, doctors, and general medical queries**. The NLP model, trained in **Jupyter Notebook**, is customized to recognize medical-related elements like **clinic, physician, and patient**. The project was developed in a **virtual environment ("myworld")**, ensuring efficient development and management. MChatBot is particularly useful in **high-demand medical situations**, providing **quick, accessible, and intelligent support** for both patients and first responders. 
